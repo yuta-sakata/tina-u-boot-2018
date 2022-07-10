@@ -86,7 +86,6 @@ GSYMS
 GTAGS
 
 *.orig
-*~
 \#*#
 
 # gcc code coverage files
